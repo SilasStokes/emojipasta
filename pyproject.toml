@@ -4,7 +4,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "emoji_pasta"
+name = "emojipasta"
 version = "1.0"
 authors = [
     { name="Kevinpgalligan"},
@@ -25,4 +25,4 @@ homepage = "https://github.com/SilasStokes/emojipasta"
 repository = "https://github.com/SilasStokes/emojipasta"
 
 [tool.hatch.build.targets.wheel]
-packages = ["emojifier"]
+packages = ["emojipasta"]

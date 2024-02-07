@@ -1,6 +1,6 @@
-# Emojifier
+# emojipasta
 
-Emojifier is a module for emojifying text
+emojipasta is a ypthon package for adding emoji's to strings using data scraped from reddit users at r/emojipasta.
 
 ## Credits
 1. The original creator of this project is [Kevinpgalligan](https://github.com/Kevinpgalligan)
@@ -8,8 +8,4 @@ Emojifier is a module for emojifying text
 
 ## Examples
 
-[Examples folder](https://github.com/MakufonSkifto/emojifier/tree/master/examples)
-
-## Documentation
-
-There is no documentation, check the [examples folder](https://github.com/MakufonSkifto/emojifier/tree/master/examples) to see the only function
+[Examples folder](https://github.com/SilasStokes/emojipasta/tree/master/examples)
